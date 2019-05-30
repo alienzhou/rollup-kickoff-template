@@ -1,0 +1,9 @@
+/.git/
+/.rpt2_cache/
+.DS_Store
+/.vscode/
+/node/modules/
+.gitignore
+.npmignore
+*.log
+/dist/*_*.js

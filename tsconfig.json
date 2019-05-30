@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "target": "es5",
+        "baseUrl": ".",
+        "downlevelIteration": true,
+        "paths": {
+            "@src/*": ["./lib/*"]
+        }
+    },
+    "exclude": [
+        "./lib/thirdparty"
+
+    ]
+}
