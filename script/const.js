@@ -1,5 +1,5 @@
 const path = require('path');
-const targetName = '<%= dirName %>';
+const targetName = 'Clock';
 const bundleName = '<%= dirName %>';
 const base = path.resolve(__dirname, '..');
 
